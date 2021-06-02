@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Show time manager report",
+        "command": "time_manager_report"
+    },
+    {
+        "caption": "Set time manager storage to default",
+        "command": "set_time_manager_to_default"
+    },
+]

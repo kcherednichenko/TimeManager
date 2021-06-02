@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["command+r"],
+		"command": "time_manager_report"
+	}
+]

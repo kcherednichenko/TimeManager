@@ -1,0 +1,6 @@
+[
+	{
+		"keys": ["alt+r"],
+		"command": "time_manager_report"
+	}
+]
